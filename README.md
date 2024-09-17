@@ -1,5 +1,4 @@
-# Little Lemon API
-
+# META-FULL-STACK-COURSEWORK
 
 ## Main Steps
 1. **Create an environment:**
